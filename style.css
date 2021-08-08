@@ -1,0 +1,13 @@
+body{
+  text-align:center;
+}
+#album{
+  height:350px;
+}
+div{
+  padding:40px;
+  background-color:#1DE9B6;
+}
+#name{
+  background-color:#18FFFF;
+}
